@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  - PlayerKiller
+  - Lvl1Passed
+  - LvlText
+  - Lvl2Passed
+  - Lvl3Passed
+  - Lvl4Passed
+  - Wall
+  - PkBall
+  - Lvl5Passed
+  - Drunk
+  - Steel
+  - Invisible
+  - Slow
+  - Speed
+  - PlayerKillerHummer
+  - BulletTime
+  - Lvl6Passed
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
